@@ -24,3 +24,6 @@ The main things that I learned are:
 ### [MX-MapFetcher](https://github.com/LukaP-BB/MX-MapFetcher)
 My most recent "big" project, where I learned the basics of tkinter (It seemed to be the easiest GUI library in Python, not the most beautiful).
 This project is fully functional and works well, but if I had to redo it, I would use an OOP approach instead of functional programing, which is not the most elegant way to use this library
+
+### [YT-Playlist](https://github.com/LukaP-BB/YT-Playlist)
+An utility that I had in mind for a while, to keep a trace of my musical playlists on youtube. In its current form, it is hardly usable for anyone else but I'll work on making it more accessible and expand the options (notably give the possibility to download playlists)
