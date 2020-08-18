@@ -7,8 +7,8 @@ You'll be able to find here my personal projects, mostly in ***Python*** since i
 
 Here are the most notable ones:
 
-### __[LittleBot](https://github.com/LukaP-BB/LittleBot)__
-This repo contains my first ever project, that I started while having mostly no clue about Python. It is still functional and the bot is working quite fine.
+### [__LittleBot__](https://github.com/LukaP-BB/LittleBot)
+This repo contains my first ever project, that I started while having __mostly__ no clue about Python. It is still functional and the bot is working quite fine.
 
 With this project, I learned:
 - Using the discord.py library
