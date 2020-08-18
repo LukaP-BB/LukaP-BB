@@ -1,7 +1,7 @@
 # Luka PAVAGEAU
 ## Student in Bioinformatics-Biostatistics Master Degree
 
-####*Coding since fall 2019*
+#### *Coding since fall 2019*
 
 You'll be able to find here my personal projects, mostly in Python since it is the language I find the easiest at the moment.
 
