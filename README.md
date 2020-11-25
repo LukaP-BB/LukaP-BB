@@ -15,6 +15,9 @@ With this project, I learned:
 - Asynchronous programing (the basics)
 - The idea behind decorators
 
+### [CoroBot](https://github.com/LukaP-BB/CoroBot)
+Here is the follow-up of my first bot, with a more defined goal : plot Covid data while using Discord as a "command-line interface". For this, I had to develop a module that would be able to properly parse the arguments, and allow for a lot of flexibility towards the user. This project involved plotting, dataframes manipulation, web requests, and a bit of linear regression. 
+
 ### [Projet-Graphes](https://github.com/LukaP-BB/Projet-Graphes)
 This was a school project that I’m pretty proud of, since it is my first *real* C++ program.
 
