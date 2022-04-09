@@ -12,7 +12,7 @@ Inspired by the online service "if this then that", the scope of this module is 
 It provides utilities to watch for system events such as file apparition in given folders and execute scripts, commands or functions on these events.
 It has a command line interface that can accept either subcommands with arguments or use a yaml configuration to execute a "complex" workflow of script execution.
 
-Even if better libs exists such as [watchdog](https://pypi.org/project/watchdog/), it was fun to overengineer this problem and this module is for now the one that represent the best what I'm able to do in terms of code quality.
+Even if better libs exists such as [watchdog](https://pypi.org/project/watchdog/), it was fun to overengineer this problem and this module is for now the one that represent the best what I'm able to do in terms of code quality (if we disregard the non-existent documentation).
 It also has the perk of being actually useful in my daily work.
 
 
